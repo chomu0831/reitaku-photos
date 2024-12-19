@@ -1,2 +1,2 @@
 # reitaku-photos
-# We use to Reitaku Campus Map Project
+# このリポジトリは麗澤大学のキャンパスマップ制作に使用しています。
